@@ -103,3 +103,4 @@ else:
     print("Prototypen blir forsinket og kvaliteten er dårligere enn forventet.\n")
 
 print("Takk for at du hjalp Erling.")
+
