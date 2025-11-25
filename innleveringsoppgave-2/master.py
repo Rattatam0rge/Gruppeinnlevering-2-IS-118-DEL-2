@@ -8,9 +8,9 @@ RESET = "\033[0m"
 #Story Silje og Sivert konfliktløsning
 
 print(
-    "\nErling er prosjektleder for et team med 5 medlemmer."
+    "\nErling er prosjektleder for et team med 6 medlemmer."
 
-     " Sivert, Silje , Hamdi, Hallgeir og Noa." )
+     " Sivert, Silje , Hamdi, Hallgeir, Jabir og Noa." )
 print("Det er tre uker til levering av prototype så det er lite med tid og mye å gjøre fremover.")
 
 print("Det har til nå gått ganske greit og sammarbeidet har fungert bra. Men nå har det oppstått en konflikt mellom to av Erlings prosjektmedarbeidere."
